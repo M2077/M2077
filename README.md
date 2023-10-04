@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Mason and I'm a college student studying cybersecurity
 
 - 🔭 I’m currently working on learning the basics of programming
 - 🌱 I’m currently learning C++
